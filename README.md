@@ -35,7 +35,12 @@ README.txt                --> Project description and instructions
 .prettierrc.json          --> Prettier config
 
 ---
+## 📸 Project Screenshots
+<img width="337" height="640" alt="Screenshot 2025-03-03 122925" src="https://github.com/user-attachments/assets/e4cc5102-c50b-4fd9-bb9a-e5426f1ef6b3" />
 
+<img width="1845" height="865" alt="Screenshot 2025-03-03 122745" src="https://github.com/user-attachments/assets/22063e41-800f-4c18-8cce-db998ad70b20" />
+
+---
 
 ## 📜 Contracts Overview
 
