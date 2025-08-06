@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Lotter.sol": "Lotter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Lotter.sol": {
+			"keccak256": "0x21220fe1756c6e2e486dda74eb867afc3ae46bd7cb6d892714e6da334f60a208",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c66c2d6796959c691f63ce8f7d0c36c290585a7b368e406cd0273f2b335ba3b4",
+				"dweb:/ipfs/QmdzbB8umywrRfQFjYkWh9hZ3g91dqqToxskenarkwg4o8"
+			]
+		}
+	},
+	"version": 1
+}
