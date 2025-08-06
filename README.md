@@ -13,26 +13,14 @@ This project is a collection of Solidity smart contracts developed using the [Re
 - **Remix VM / JavaScript VM**
 
 ---
+## 📌 Features
 
-## 📁 Project Structure
-
-contracts/
-│
-├── 1_Storage.sol        --> Basic storage contract
-├── 2_Owner.sol          --> Contract for ownership logic
-├── 3_Ballot.sol         --> Voting system (Ballot)
-├── Lottery.sol          --> Lottery-based contract
-│
-scripts/
-├── deploy_with_ethers.ts --> Deployment script using ethers.js
-├── deploy_with_web3.ts   --> Deployment script using web3.js
-│
-tests/
-├── Ballot_test.sol        --> Solidity test for Ballot contract
-├── test_lottery.js        --> JavaScript test (optional)
-
-README.txt                --> Project description and instructions
-.prettierrc.json          --> Prettier config
+- 🧑‍💼 **Manager Role:** Only the contract creator (manager) can pick the winner.
+- 🎟️ **Participate:** Users can join the lottery by sending ETH to the contract.
+- 🧾 **Get Balance:** Check the total ETH collected in the lottery pool.
+- 📋 **Players List:** View all current participants.
+- 🏆 **Pick Winner:** Randomly selects a winner and sends the entire balance to their address.
+- 🧠 **Smart Contract Logic:** Securely written in Solidity, deployed via Remix, and tested using injected Web3.
 
 ---
 ## 📸 Project Screenshots
