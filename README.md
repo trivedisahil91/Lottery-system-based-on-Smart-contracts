@@ -36,9 +36,16 @@ README.txt                --> Project description and instructions
 
 ---
 ## 📸 Project Screenshots
+
+---
+<img width="1845" height="865" alt="Screenshot 2025-03-03 122745" src="https://github.com/user-attachments/assets/22063e41-800f-4c18-8cce-db998ad70b20" />
+
+---
+<img width="346" height="490" alt="Screenshot 2025-03-03 122903" src="https://github.com/user-attachments/assets/138482bc-a3f5-459c-8813-77755e9ae4e3" />
+
+---
 <img width="337" height="640" alt="Screenshot 2025-03-03 122925" src="https://github.com/user-attachments/assets/e4cc5102-c50b-4fd9-bb9a-e5426f1ef6b3" />
 
-<img width="1845" height="865" alt="Screenshot 2025-03-03 122745" src="https://github.com/user-attachments/assets/22063e41-800f-4c18-8cce-db998ad70b20" />
 
 ---
 
